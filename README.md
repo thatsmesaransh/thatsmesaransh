@@ -12,22 +12,22 @@ Data Analytics
 
 Currently, I’m also exploring AI/ML applications and working on projects that involve dynamic programming, stream processing, and real-time systems.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-📈 Outside of Coding
+📈 Outside of Coding: 
 When I’m not coding, I enjoy diving into the stock market. I like analyzing trends, studying market patterns, and exploring investment strategies to grow my portfolio.
 The stock market fascinates me with its blend of logic, probability, and unpredictability.
 It keeps me engaged and sharpens my analytical thinking skills.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-🌱 What I’m Currently Working On
+🌱 What I’m Currently Working On: 
 Improving my coding skills for SDE roles and internship opportunities.
 Working on real-time streaming solutions.
 Building projects to apply concepts like object-oriented programming (OOP) and SQL.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-📫 How to Reach Me
+📫 How to Reach Me: 
 Feel free to connect with me or check out my projects!
 LinkedIn: www.linkedin.com/in/saransh-mishra-b27958299
 Email: saranshcsec1@gmail.com
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛠️ Technologies & Tools
+🛠️ Technologies & Tools: 
 Programming Languages: JAVA, Python
 Frameworks & Database: My Sql, MongoDB, SQLite, PHP, Flutter, Go
 Web Technologies: HTML, CSS, Javascript, Node.js, Django
