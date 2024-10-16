@@ -5,12 +5,11 @@ I’m passionate about software development, constantly building projects and le
 
 Backend Development
 Data Structures and Algorithms
-
 Software Development Engineering (SDE)
 Real-time Data Processing
 Mobile App Development (Flutter & Dart)
-
 Data Analytics
+
 Currently, I’m also exploring AI/ML applications and working on projects that involve dynamic programming, stream processing, and real-time systems.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 📈 Outside of Coding
