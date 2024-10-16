@@ -25,8 +25,8 @@ Building projects to apply concepts like object-oriented programming (OOP) and S
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 📫 How to Reach Me
 Feel free to connect with me or check out my projects!
-LinkedIn: [Your LinkedIn Profile]
-Email: your-email@example.com
+LinkedIn: www.linkedin.com/in/saransh-mishra-b27958299
+Email: saranshcsec1@gmail.com
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Technologies & Tools
 Programming Languages: JAVA, Python
